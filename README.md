@@ -12,7 +12,7 @@ An inbuilt spotify downloader for spicetify, just hit the regular "premium" down
  install spotdl\
  put both files in extensions folder\
  run the python script\
- add the extensions folder to the local files\
+ add the extensions folder to the local files in the spotify settings (optional)\
  hit the download button!
 
 
