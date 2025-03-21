@@ -22,7 +22,7 @@ Follow these steps to get started:
 
 ### 2. Add the Extension
 - Place both files from this repository into your **Spicetify extensions** folder:  
-`C:\Users\abbas\AppData\Local\spicetify\Extensions`
+`C:\Users\username\AppData\Local(can also be roaming)\spicetify\Extensions`
 
 ### 3. Enable the Downloader Extension
 Run the following command to add the `downloader.js` extension to Spicetify:  
