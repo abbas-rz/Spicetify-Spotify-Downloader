@@ -31,8 +31,9 @@ Then apply the changes using:
 `spicetify apply`
 
 ### 4. Run the Python Script
-Run the Python script to configure the downloader:  
+Run the Python script to run the downloader server backend (Needs to be running when downloading):  
 `python main.py`
+
 
 ### 5. (Optional) Add Extensions Folder to Spotify
 To ensure local files are accessible, add the **Extensions** folder to your **Spotify Settings**:  
