@@ -55,6 +55,7 @@ If you encounter issues:
 - Double-check that the extension files are placed in the correct directory.  
 - Restart Spotify and apply changes using:  
 `spicetify apply`
+- MAKE SURE TO REPORT ANY BUGS/ISSUES
 
 ---
 
