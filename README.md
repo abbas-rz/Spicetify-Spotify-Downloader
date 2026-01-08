@@ -1,4 +1,6 @@
-# WORK IN PROGRESS
+# WORK IN PROGRESS ⚠️
+
+The extension is tedious to install for the end user, and is very hard to get working in its current state. Pull Requests are appreciated.
 
 # 🎧 Spotify Downloader for Spicetify
 
