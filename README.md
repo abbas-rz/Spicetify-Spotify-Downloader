@@ -1,3 +1,5 @@
+# WORK IN PROGRESS
+
 # 🎧 Spotify Downloader for Spicetify
 
 An integrated **Spotify Downloader** extension for **Spicetify**. Simply hit the standard "Download" button on any playlist, and enjoy your saved tracks from the **Downloaded** tab in your library! (Powered by [SpotDL](https://github.com/spotDL/spotify-downloader)).
